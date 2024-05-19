@@ -33,7 +33,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chadxz/imap-simple.git"
+    "url": "https://github.com/KrisKrebs/node-imap.git"
   },
   "engines": {
     "node": ">=6"
